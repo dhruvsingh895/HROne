@@ -1,0 +1,12 @@
+.venv/
+.local/
+.env*
+Dockerfile*
+**/Dockerfile*
+__pycache__/
+.pytest_cache/
+*.pyc
+*.zip
+candidate_kit/
+sample_data/
+sample_seed.py
